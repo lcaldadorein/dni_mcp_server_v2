@@ -1,0 +1,6 @@
+fastmcp
+httpx
+
+# Test MCP
+openai
+python-dotenv
